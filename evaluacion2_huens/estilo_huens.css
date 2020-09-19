@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px 20px;
+    background-image: url(./verduras.jpeg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+    color: #FFFFFF;
+    background-color: #fd5f00;
+    padding: 10px;
+    border-radius: 0 20px;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    color: #00bcd4;
+    text-shadow: 2px 2px 5px rgb(44, 44, 44);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-size: 35px;
+    text-align: center;
+    line-height: 80px;
+    color: #dd2c00;
+    background-color: #ffb383;
+    box-shadow: 5px 5px 3px grey;
+}

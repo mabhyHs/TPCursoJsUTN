@@ -1,0 +1,43 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px 20px;
+    background-color: lavender;
+}
+
+h1 {
+    font-size: 60px;
+    color: #FFFFFF;
+    background-color: #5000ac;
+    padding: 10px;
+    border-radius: 0 20px;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #e41749;
+    text-shadow: 2px 2px 5px rgb(44, 44, 44);
+    transition: transform .2s;
+}
+
+h2:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+p {
+    margin: 0 auto;
+    height: 345px;
+    width: 512px;
+    padding-top: 45px;
+    background-image: url(/images/pizarra.jpg);
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    line-height: 40px;
+    color: #ffffff;
+    box-shadow: 5px 5px 3px grey;
+}

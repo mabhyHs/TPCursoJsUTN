@@ -1,0 +1,8 @@
+Profe:
+Según las condiciones para entregar dice:
+"Abrir el archivo evaluacion2.html para realizar el ejercicio y guardarlo com evaluacion2_apellido.html (por ejemplo: evaluacion2_perez.html)"
+pero haciendo eso como no hay archivo index.html el sitio no funciona.
+Si lo hice con los otros archivos tanto JS como CSS.
+También se me ocurrió ponerle un alert al principio para que la persona que ingresara al sitio supiera de qué se trataba y cuál era la consigna, pero si no está bien lo rehago y lo saco.
+Que tenga buenas noches.
+Saludos

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Evaluación 6</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+
+    <h1>Evaluación Unidad VI</h1>
+
+    <section id="miForm">
+        <p>Monto</p>
+        <input type="text" id="Monto" name="Monto" placeholder="Monto" onChange="CalculoIva();" required />
+        <p>Iva</p>
+        <input type="text" id="Iva" name="Iva" placeholder="Iva" required />
+        <p>Total</p>
+        <input type="text" id="Total" name="Total" placeholder="Total" required />
+        <br>
+        <br>
+        <button type="submit" onclick="calculoIva()">Calcular</button>
+        <button onclick="limpiar()">Limpiar</button>
+    </section>
+    <script type="text/javascript" src="./js/funciones_evaluacion6_huens.js"></script>
+</body>
+
+</html>
